@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Clase\\Downloads\\Portal_noticias\\Portal_noticias.csproj",
+      "projectUniqueName": "C:\\Users\\Clase\\Downloads\\Portal_noticias\\semana-6-teoria\\Portal_noticias.csproj",
       "projectName": "Portal_noticias",
-      "projectPath": "C:\\Users\\Clase\\Downloads\\Portal_noticias\\Portal_noticias.csproj",
+      "projectPath": "C:\\Users\\Clase\\Downloads\\Portal_noticias\\semana-6-teoria\\Portal_noticias.csproj",
       "packagesPath": "C:\\Users\\Clase\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Clase\\Downloads\\Portal_noticias\\obj\\",
+      "outputPath": "C:\\Users\\Clase\\Downloads\\Portal_noticias\\semana-6-teoria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
